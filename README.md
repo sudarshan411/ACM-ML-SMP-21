@@ -9,6 +9,4 @@ This is a repository for the ML Summer Mentorship Program done by ACM NITK.
  - Once you feel like you have finished a considerable amount of work in the project, *submit a pull request* for review.
 
 ## Resources
- 1. Datasets:
-  - d 
 
