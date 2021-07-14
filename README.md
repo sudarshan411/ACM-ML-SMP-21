@@ -15,3 +15,5 @@ This is a repository for the ML Summer Mentorship Program done by ACM NITK.
 
 ## Resources
 
+ - EDA Guide : [](https://towardsdatascience.com/exploratory-data-analysis-eda-a-practical-guide-and-template-for-structured-data-abfbf3ee3bd9)
+
