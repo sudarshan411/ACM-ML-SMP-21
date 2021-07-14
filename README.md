@@ -16,4 +16,6 @@ This is a repository for the ML Summer Mentorship Program done by ACM NITK.
 ## Resources
 
  - EDA Guide : [https://towardsdatascience.com/exploratory-data-analysis-eda-a-practical-guide-and-template-for-structured-data-abfbf3ee3bd9](https://towardsdatascience.com/exploratory-data-analysis-eda-a-practical-guide-and-template-for-structured-data-abfbf3ee3bd9)
+ - [Getting started with GitHub Desktop](https://www.codecademy.com/articles/what-is-git-and-github-desktop)
+ - [Git and GitHub (CLI)](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
