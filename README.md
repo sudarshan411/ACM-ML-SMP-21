@@ -18,4 +18,7 @@ This is a repository for the ML Summer Mentorship Program done by ACM NITK.
  - EDA Guide : [https://towardsdatascience.com/exploratory-data-analysis-eda-a-practical-guide-and-template-for-structured-data-abfbf3ee3bd9](https://towardsdatascience.com/exploratory-data-analysis-eda-a-practical-guide-and-template-for-structured-data-abfbf3ee3bd9)
  - [Getting started with GitHub Desktop](https://www.codecademy.com/articles/what-is-git-and-github-desktop)
  - [Git and GitHub (CLI)](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+ - [K-Nearest Neighbors - Video](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+ - [Intro to KNN - TDS](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
+ - [Intro to Recommender Systems](https://medium.com/sciforce/inside-recommendations-how-a-recommender-system-recommends-9afc0458bd8f)
 
